@@ -62,6 +62,7 @@ Use <ins>.sort_values()</ins> to arrange the data and <ins>.unique()</ins> to ve
 
 ## **🌍REAL-LIFE APPLICATIONS**
 
+
 ✅  Student Performance System 🎓
 
 ✔ What happens:
@@ -74,24 +75,30 @@ Binning → Marks grouped:
 Formatting → Marks shown properly:
 78 → 78.00
 
-✔ Use:
+✔ Used in :
 Result generation systems
 Report cards
 
 
+
 ✅  Banking & Loan Systems 🏦
+
 ✔ What happens:
 Binning → Salary ranges:
 Low / Medium / High income
 
 Formatting → Currency display:
 ₹75000 → ₹75,000.00
+
+
 👉 Helps banks decide:
 Loan approval
 Interest rates
 
 
+
 ✅  Weather Data Analysis 🌦️
+
 ✔ What happens:
 Binning → Temperature categories:
 Cold / Warm / Hot
@@ -104,7 +111,9 @@ Weather apps
 Agriculture planning
 
 
+
 ✅  Healthcare Monitoring 🏥
+
 ✔ What happens:
 Binning → Blood sugar levels:
 Low / Normal / High
